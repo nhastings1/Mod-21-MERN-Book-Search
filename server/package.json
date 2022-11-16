@@ -10,7 +10,7 @@
       "watch": "nodemon server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Nick Hastings",
     "license": "ISC",
     "dependencies": {
       "bcrypt": "^5.0.0",

@@ -12,10 +12,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git@work.github.com:arosenkranz/googlebooks-app.git"
+      "url": "https://github.com/nhastings1/Mod-21-MERN-Book-Search"
     },
     "keywords": [],
-    "author": "",
+    "author": "Nick Hastings",
     "license": "ISC",
     "dependencies": {
       "@apollo/react-hooks": "^4.0.0",
